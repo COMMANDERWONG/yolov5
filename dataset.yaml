@@ -1,0 +1,6 @@
+train: ../dataset/train/images
+val: ../dataset/valid/images
+
+nc: 102
+
+names: ["Aardvark", "Addax", "African Wild Dog", "Alligator", "Ant", "Armadillo", "Axolotl", "Bat", "Bear", "Blue Whale", "Boar", "Buffalo", "Butterfly", "Camel", "Capybara", "Cat", "Caterpillar", "Centipede", "Chameleon", "Chicken", "Chimpanzee", "Chinchilla", "Cockatiel", "Crab", "Dolphin", "Dragonfly", "Duck", "Eagle", "Elephant", "Emu", "Ferret", "Flamingo", "Fox", "Frog", "Giraffe", "Goat", "Goose", "Gorilla", "Grasshopper", "Guinea Pig", "Hammerhead Shark", "Hamster", "Hawk", "Hedgehog", "Hermit Crab", "Hippo", "Honey Badger", "Honey Bee", "Horse", "Horseshoe Crab", "Hound", "Husky", "Jaguar", "Jellyfish", "Kangaroo", "Kingfisher", "Koala", "Kookaburra", "Lady Beetle", "Land Tortoise", "Leopard", "Lion", "Llama", "Lovebird", "Macaw", "Manatee", "Mantis", "Mole", "Monkey", "Newt", "Octopus", "Orangutan", "Orca", "Ostrich", "Owl", "Panda", "Parakeet", "Peacock", "Penguin", "Pig", "Pigeon", "Polar Bear", "Python", "Rabbit", "Racoon", "Rat", "Rhino", "Scorpion", "Sea Turtle", "Seal", "Sheep", "Snail", "Squid", "Squirrel", "Swan", "Tarantula", "Tiger", "Toucan", "Wasp", "Whale Shark", "White Shark", "White Tiger"]
